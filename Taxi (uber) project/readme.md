@@ -65,18 +65,15 @@ Link to the script: https://github.com/AdesinaA/data-engineering/blob/main/Taxi%
 ### Note: Choose Ubuntu, download your PEM key. In your terminal, install these dependencies and SSH. 
 
 ```# Install Python and pip
-
--- sudo apt-get install update -y
+sudo apt-get install update -y
 sudo apt-get update -y
 
 # install python on our machine.
 sudo apt-get install python3-distutils
-
 sudo apt-get install python3-apt
 
 # install wget to enable us to Download file from the internet.
 sudo apt-get install wget
-
 wget https://bootstrap.pypa.io/get-pip.py
 
 sudo python3 get-pip.py
@@ -93,7 +90,6 @@ sudo pip3 install awscli
 
 #install AWS Simple Storage Service (s3) Datalake
 sudo pip3 install s3
-
 
 #install Python library to programmatically access and manage various AWS services
 sudo pip3 install boto3
