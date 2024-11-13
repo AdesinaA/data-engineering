@@ -50,3 +50,4 @@ These tools were used for the development of this project:
 
 ### Data Modelling
 The datasets was designed using [lucid chart](https://www.lucidchart.com/) adopting the principles of fact and dim data modelling concepts.
+![uber data model](https://github.com/user-attachments/assets/54bb908a-9d5a-4694-b01b-549b704f512d)
