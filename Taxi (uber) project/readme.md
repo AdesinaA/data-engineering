@@ -97,6 +97,7 @@ sudo pip3 install boto3
  sudo pip3 install redshift
 ```
 #### performed orchestration in mage ai by accessing the external internet protocol address. It is always in this format: <external  IP address>:<port number> . Afterwards, i created a new pipeline in two stages:
-- transform:[uber_transformation_code.py](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_transformation_code.py)
-- load:[uber_load_data.py](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_transformation_code.py)
+- transform: [uber_transformation_code.py](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_transformation_code.py)
+- load: [uber_load_data.py](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_transformation_code.py)
 
+#### Note: Before loading executing the load pipeline, create access keyand secret key and grant it permission to have access to s3 and redshift privilege and then add it to your ```io_config.yaml```. 
