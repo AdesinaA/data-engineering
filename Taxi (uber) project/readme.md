@@ -16,9 +16,9 @@ This project is basically emphasizing on data engineering with lesser emphasis o
 - [Technologies](#technologies)
 - [Data Pipeline Architecture](#data-pipeline-architecture)
 - [Data Modelling](#data-modelling)
-- [Cleaning and Transformation](#cleaning-and-transformation)
-- [Storage](#storage)
-- [ETL/Orchestration](#orchestration)
+- [Cleaning and Transformation](#step-1-cleaning-and-transformation)
+- [Storage](#step-2-storage)
+- [ETL/Orchestration](#step-3-orchestration)
 - [Dashboard](#dashboard)
 
 ### Dataset Used
