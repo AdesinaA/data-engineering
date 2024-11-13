@@ -42,3 +42,8 @@ These tools were used for the development of this project:
 ![dataarchitecture](https://github.com/user-attachments/assets/13c301e1-4fbe-4de0-975f-62e69a0aa524)
 
 #### Files in the following stages:
+- cleaning and transformation:
+- storage:
+- etl, orchestration - mage: transform, load
+- analytics:
+- dashboard: 
