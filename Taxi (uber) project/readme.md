@@ -13,13 +13,13 @@ This project is basically emphasizing on data engineering with lesser emphasis o
 
 ## Table of Content
 - [Dataset Used](#dataset-used)
-- Technologies
-- Data Pipeline Architecture
-- Data Modelling
-- Cleaning and Transformation
-- Storage
-- ETL/Orchestration
-- Dashboard
+- [Technologies](#technologies)
+- [Data Pipeline Architecture](#data-pipeline-architecture)
+- [Data Modelling](#data-modelling)
+- [Cleaning and Transformation](#cleaning-and-transformation)
+- [Storage](#storage)
+- [ETL/Orchestration](#orchestration)
+- [Dashboard](#dashboard)
 
 ### Dataset Used
 This project uses the tlc trip record dataset which include trip distances, rate types, payment types, pickup and dropoff dates and time, pickup and dropoff location & driver-passenger counts. 
