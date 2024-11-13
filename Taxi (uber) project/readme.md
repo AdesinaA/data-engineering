@@ -47,3 +47,6 @@ These tools were used for the development of this project:
 - etl, orchestration - mage: [transform](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_transformation_code.py), [load](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_load_data.py)
 - analytics: [uber.sql](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/uber.sql)
 - dashboard: 
+
+### Data Modelling
+The datasets was designed using [lucid chart](https://www.lucidchart.com/) adopting the principles of fact and dim data modelling concepts.
