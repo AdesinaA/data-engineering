@@ -103,4 +103,4 @@ sudo pip3 install boto3
 #### Note: Before loading executing the load pipeline, create access keyand secret key and grant it permission to have access to s3 and redshift privilege and then add it to your ```io_config.yaml```. 
 
 ### stage 4: analytics
-once done running the load pipeline in mage, the fact and dim tables will be generated in AWS Redshift.
+once done running the load pipeline in mage, the fact and dim tables will be generated in AWS Redshift. Here is the SQL code for additional analysis i performed: [SQL SCRIPT](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/uber.sql)
