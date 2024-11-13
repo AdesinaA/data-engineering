@@ -21,12 +21,14 @@ This project is basically emphasizing on data engineering with lesser emphasis o
 - ETL/Orchestration
 - Dashboard
 
-# Dataset Used
+### Dataset Used
 This project uses the tlc trip record dataset which include trip distances, rate types, payment types, pickup and dropoff dates and time, pickup and dropoff location & driver-passenger counts. 
 
 Attached is the overview and links to the dataset details:
 
 - website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - data dic: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
-- raw data (csv format): 
+- raw data (csv format): https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/uber_data.csv
+
+### Technologies
 
