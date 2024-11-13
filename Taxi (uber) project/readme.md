@@ -34,7 +34,8 @@ Attached is the overview and links to the dataset details:
 These tools were used for the development of this project: 
 - programming language: python & sql
 - extraction & transformation: jupyter notebook, AWS redshift, AWS EC2 instance
-- storage: AWS S3
+- storage: AWS S3![Screenshot 2024-11-13 at 14 48 18](https://github.com/user-attachments/assets/e0b1f04c-5e9a-411c-9b0f-3e7e7a583401)
+
 - orchestration: [Mage AI](https://www.mage.ai/)
 - dashboard: Power BI
 
@@ -50,4 +51,5 @@ These tools were used for the development of this project:
 
 ### Data Modelling
 The datasets was designed using [lucid chart](https://www.lucidchart.com/) adopting the principles of fact and dim data modelling concepts.
-![uber data model](https://github.com/user-attachments/assets/54bb908a-9d5a-4694-b01b-549b704f512d)
+![Uploading Screenshot 2024-11-13 at 14.48.18.png…]()
+
