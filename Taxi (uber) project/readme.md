@@ -35,5 +35,8 @@ These tools were used for the development of this project:
 - programming language: python & sql
 - extraction & transformation: jupyter notebook, AWS redshift, AWS EC2 instance
 - storage: AWS S3
-- orchestration: [mage ai](https://www.mage.ai/)
+- orchestration: [Mage AI](https://www.mage.ai/)
 - dashboard: Power BI
+
+### Data Pipeline Architecture
+![dataarchitecture](https://github.com/user-attachments/assets/13c301e1-4fbe-4de0-975f-62e69a0aa524)
