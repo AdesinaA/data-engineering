@@ -78,7 +78,6 @@ wget https://bootstrap.pypa.io/get-pip.py
 
 sudo python3 get-pip.py
 
-
 # Install Mage
 sudo pip3 install mage-ai
 
