@@ -59,8 +59,8 @@ Link to the script: https://github.com/AdesinaA/data-engineering/blob/main/Taxi%
 ### stage 2: storage
 ![Screenshot 2024-11-13 at 10 48 54](https://github.com/user-attachments/assets/1aaabf36-1c6d-48ea-9bd5-7941e3840f66)
 
-### stage 3: etl/orchestration
+### stage 3: etl / orchestration
 ![Screenshot 2024-11-13 at 10 49 38](https://github.com/user-attachments/assets/df3675ac-0c15-4f30-86ac-e7b51237bfd8)
 
-
+### Note: Choose Ubuntu, download your PEM key. In your terminal, install these dependencies and SSH. 
 
