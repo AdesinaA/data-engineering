@@ -63,4 +63,41 @@ Link to the script: https://github.com/AdesinaA/data-engineering/blob/main/Taxi%
 ![Screenshot 2024-11-13 at 10 49 38](https://github.com/user-attachments/assets/df3675ac-0c15-4f30-86ac-e7b51237bfd8)
 
 ### Note: Choose Ubuntu, download your PEM key. In your terminal, install these dependencies and SSH. 
+'''
+# Install Python and pip 
 
+-- sudo apt-get install update -y
+sudo apt-get update -y
+
+# install python on our machine.
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+# install wget to enable us to Download file from the internet.
+sudo apt-get install wget
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python3 get-pip.py
+
+
+# Install Mage
+sudo pip3 install mage-ai
+
+# Install Pandas
+sudo pip3 install pandas
+
+# install AWS library
+sudo pip3 install awscli
+
+#install AWS Simple Storage Service (s3) Datalake
+sudo pip3 install s3
+
+
+#install Python library to programmatically access and manage various AWS services
+sudo pip3 install boto3
+
+# install AWS Redshift
+ sudo pip3 install redshift 
+'''
