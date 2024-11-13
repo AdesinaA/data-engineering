@@ -44,6 +44,6 @@ These tools were used for the development of this project:
 #### Files in the following stages:
 - cleaning and transformation: https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/uber_data.ipynb
 - storage:
-- etl, orchestration - mage: [transform]( ), [load]( )
-- analytics:
+- etl, orchestration - mage: [transform](https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_transformation_code.py ), [load]( https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/MageAI/uber_load_data.py)
+- analytics: [uber.sql]( )
 - dashboard: 
