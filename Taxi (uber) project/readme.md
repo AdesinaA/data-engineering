@@ -31,4 +31,4 @@ Attached is the overview and links to the dataset details:
 - raw data (csv format): https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/uber_data.csv
 
 ### Technologies
-
+These were used for the development of this project: 
