@@ -32,3 +32,8 @@ Attached is the overview and links to the dataset details:
 
 ### Technologies
 These tools were used for the development of this project: 
+- programming language: python & sql
+- extraction & transformation: jupyter notebook, AWS redshift, AWS EC2 instance
+- storage: AWS S3
+- orchestration: mage ai [https://www.mage.ai/]
+- dashboard: Power BI
