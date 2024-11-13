@@ -12,3 +12,11 @@ In this project, I designed and implemented an end-to-end data pipeline that con
 This project is basically emphasizing on data engineering with lesser emphasis on analytics and dashboard aesthetics. 
 
 ## Table of Content
+- Dataset Used
+- Technologies
+- Data Pipeline Architecture
+- Data Modelling
+- Cleaning and Transformation
+- Storage
+- ETL/Orchestration
+- Dashboard
