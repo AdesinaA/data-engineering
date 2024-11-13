@@ -98,4 +98,4 @@ sudo pip3 install boto3
 ```
 #### performed orchestration in mage ai by accessing the external internet protocol address. It is always in this format: <external  IP address>:<port number> . Afterwards, i created a new pipeline in two stages:
 - transform:
--load: 
+- load: 
