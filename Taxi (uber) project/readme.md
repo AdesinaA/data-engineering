@@ -27,6 +27,6 @@ This project uses the tlc trip record dataset which include trip distances, rate
 Attached is the overview and links to the dataset details:
 
 - website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- data dic:
+- data dic: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 - raw data (csv format): 
 
