@@ -94,4 +94,4 @@ sudo pip3 install s3
 sudo pip3 install boto3
 
 # install AWS Redshift
- sudo pip3 install redshift```
+ sudo pip3 install redshift
