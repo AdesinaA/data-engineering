@@ -64,7 +64,7 @@ Link to the script: https://github.com/AdesinaA/data-engineering/blob/main/Taxi%
 
 ### Note: Choose Ubuntu, download your PEM key. In your terminal, install these dependencies and SSH. 
 
-'''# Install Python and pip'''
+```# Install Python and pip
 
 -- sudo apt-get install update -y
 sudo apt-get update -y
@@ -99,4 +99,4 @@ sudo pip3 install s3
 sudo pip3 install boto3
 
 # install AWS Redshift
- sudo pip3 install redshift'''
+ sudo pip3 install redshift```
