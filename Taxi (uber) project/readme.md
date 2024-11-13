@@ -53,7 +53,14 @@ These tools were used for the development of this project:
 The datasets was designed using [lucid chart](https://www.lucidchart.com/) adopting the principles of fact and dim data modelling concepts.
 ![Screenshot 2024-11-13 at 14 48 18](https://github.com/user-attachments/assets/e0b1f04c-5e9a-411c-9b0f-3e7e7a583401)
 
-### step I: Cleaning and Transformation
+### stage 1: Cleaning and Transformation
 Link to the script: https://github.com/AdesinaA/data-engineering/blob/main/Taxi%20(uber)%20project/uber_data.ipynb
+
+### stage 2: storage
+![Screenshot 2024-11-13 at 10 48 54](https://github.com/user-attachments/assets/1aaabf36-1c6d-48ea-9bd5-7941e3840f66)
+
+### stage 3: etl/orchestration
+![Screenshot 2024-11-13 at 10 49 38](https://github.com/user-attachments/assets/df3675ac-0c15-4f30-86ac-e7b51237bfd8)
+
 
 
